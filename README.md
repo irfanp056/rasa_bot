@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 ---------
 
+=======
+>>>>>>> refs/remotes/origin/main
 title: Rasa Bot
 emoji: 🐨
 colorFrom: pink
@@ -10,7 +13,10 @@ app_file: app.py
 pinned: false
 license: apache-2.0
 
+<<<<<<< HEAD
 ------------
 
+=======
+>>>>>>> refs/remotes/origin/main
 # rasa_bot
 Internship - for Omdena Lagos Chapter
