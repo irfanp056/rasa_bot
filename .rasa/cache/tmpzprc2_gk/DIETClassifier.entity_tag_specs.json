@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-local_chapter",
+      "2": "I-local_chapter",
+      "3": "L-local_chapter",
+      "4": "U-local_chapter",
+      "5": "B-user_role",
+      "6": "I-user_role",
+      "7": "L-user_role",
+      "8": "U-user_role",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-local_chapter": 1,
+      "I-local_chapter": 2,
+      "L-local_chapter": 3,
+      "U-local_chapter": 4,
+      "B-user_role": 5,
+      "I-user_role": 6,
+      "L-user_role": 7,
+      "U-user_role": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]
