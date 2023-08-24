@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://irfanp056:$HF_TOKEN@huggingface.co/spaces/irfanp056/rasa_bot main
+        run: git push --force https://irfanp056:$HF_TOKEN@huggingface.co/spaces/irfanp056/rasa_bot main
